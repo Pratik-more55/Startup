@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+backend/.env
+
+# React build
+frontend/build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
